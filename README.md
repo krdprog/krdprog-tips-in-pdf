@@ -10,6 +10,8 @@ PDF версия рабочих рецептов и спрособов реше�
 - Заметки про git (шпаргалка) - https://github.com/krdprog/krdprog-tips-in-pdf/blob/master/git-tips-krdprog.pdf
 - Заметки про редактор Vim (шпаргалка) - https://github.com/krdprog/krdprog-tips-in-pdf/blob/master/vim-tips-krdprog.pdf
 
-Pdf-версия заметкок с сайта http://krdprog.ru
+## About:
+
+**Pdf-версия заметкок с сайта http://krdprog.ru**
 
 **Автор:** Алексей Цаплин-Купайсинов (aka Краснодарский программист). https://github.com/krdprog
