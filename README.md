@@ -1,5 +1,5 @@
 # krdprog-tips-in-pdf
-PDF версия рабочих рецептов и спрособов решения возникающих задач. @krdprog
+PDF-версия рабочих рецептов и спрособов решения возникающих задач (Bash, Linux, Git, Vim, Bower, Flexbox, EMMET, Apache). @krdprog
 
 ## Темы:
 
